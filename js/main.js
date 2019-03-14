@@ -5,8 +5,8 @@ let tasks = new CompoTaskList({
 });
 
 let option1 = new Task("premier de la liste", null);
-let option2 = new Task("Deuxième de la liste", null);
-let option3 = new Task("Troisième de la liste", null);
+let option2 = new Task("Deuxième  liste", null);
+let option3 = new Task("Troisième liste", null);
 
 list.add(option1);
 list.add(option2);
