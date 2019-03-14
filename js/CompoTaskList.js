@@ -6,7 +6,9 @@ class CompoTaskList {
     getTaskList() {
         return this.param.taskList;
     }
-
+  /**
+     * Retourne l'élément du DOM passé en paramètre au constructeur
+     */
     getElement() {
         return this.param.element;
     }
